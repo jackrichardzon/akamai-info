@@ -2,8 +2,7 @@
 #Simple script bash to expose data headers Akamai
 #Akamai Info Headers -- RHack @Queseguridad
 
-echo -e "
-              
+echo -e "             
  k m i H    rs In o
 x X X   XXXX     X 
 x X X   XXXX     X 
